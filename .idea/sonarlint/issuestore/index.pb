@@ -23,3 +23,5 @@ H
 mavic-express/.gitignore,3\b\3be4b2e07419ea13a83cd712d8c71aea8a3640cc
 B
 docker-compose.yml,3\5\35b8c13cf2eb2a194eada000eb310d65aed53b2a
+w
+Gmavic-express/src/main/java/com/nuf_tech/mavic_express/models/User.java,5\9\59f9b7f900944d03b40427c4532ebff3a087802f
