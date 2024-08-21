@@ -21,3 +21,5 @@ w
 G.idea/sonarlint/issuestore/e/f/efe73e98de692d868d421d265597958a89f32209,4\a\4ab4d2d5351c0f184fb5dba82326d34492b889c1
 H
 mavic-express/.gitignore,3\b\3be4b2e07419ea13a83cd712d8c71aea8a3640cc
+B
+docker-compose.yml,3\5\35b8c13cf2eb2a194eada000eb310d65aed53b2a
